@@ -1,0 +1,3640 @@
+MIG: 09:25:47 : xml_input_file: mig_b.prj
+MIG: 09:25:47 : Absolute path of xml_input_file: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 09:25:47 : xml_input_file: mig_b.prj
+MIG: 09:25:47 : Absolute path of xml_input_file: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 09:25:47 : In updateAllModelParams
+MIG: 09:25:47 : ################# RUNNING MIG BATCH ###################
+MIG: 09:25:47 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx3/Vivado/2015.3/data/ip/xilinx/mig_7series_v2_4... instDirPath: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 09:25:47 : synp_flow:  -- synthesis_mode: Other
+MIG: 09:25:47 : outputDirectory: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 09:25:47 : vivado_mode: xpg_bd
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:47 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 1
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 : isPortInterface: 0
+MIG: 09:25:48 :  locked false  
+MIG: 09:25:48 : HDL Language: Verilog
+MIG: 09:25:48 : compInfo: true
+MIG: 09:25:48 : Vivado Options xc7a200t sbg484 -1
+MIG: 09:25:48 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 09:25:48 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe
+MIG: 09:25:48 : xilinx_path: C:/Xilinx3/Vivado/2015.3/ids_lite/ISE
+MIG: 09:25:48 : I am in catch area
+MIG: 09:25:48 : Running C:/Xilinx3/Vivado/2015.3/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 09:25:59 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 09:25:59 : Component_Name: hdmi_mig_7series_0_0
+MIG: 09:25:59 : Moving hdmi_mig_7series_0_0 ...
+MIG: 09:25:59 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 09:25:59 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 09:25:59 : XGUI hdlLanguage: Verilog
+MIG: 09:25:59 : xgui vivado_mode: xpg_bd
+MIG: 09:25:59 : xgui hdlLanguage: Verilog -- hdlExt: v
+MIG: 09:25:59 : Reading C:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/hdmi_mig_7series_0_0/user_design/rtl/hdmi_mig_7series_0_0_mig.v ...
+MIG: 09:26:00 : 1
+MIG: 09:26:00 : Inside fn mem: DDR3
+MIG: 09:26:00 : QDRII+ Inside fn ui: 100000000
+MIG: 09:26:00 : cntrl:  memtype: DDR3
+MIG: 09:26:00 : 800
+MIG: 09:26:00 :  MMCM_VCO single ctrl param_name: MMCM_VCO --  possibleMaxVcoVal: 800 
+MIG: 09:26:00 : 
+MIG: 09:26:00 : 1
+MIG: 09:26:00 : 100000000
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  polarity_value: 1
+MIG: 09:26:00 : 
+MIG: 09:26:00 : 
+MIG: 09:26:00 : cntrl:  memtype: DDR3
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT0_EN --- "TRUE"
+MIG: 09:26:00 : TRUE
+MIG: 09:26:00 :  MMCM Enable Param: MMCM_CLKOUT0_EN ==> TRUE
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT1_EN --- "TRUE"
+MIG: 09:26:00 : TRUE
+MIG: 09:26:00 :  MMCM Enable Param: MMCM_CLKOUT1_EN ==> TRUE
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT2_EN --- "FALSE"
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  MMCM Enable Param: MMCM_CLKOUT2_EN ==> FALSE
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT3_EN --- "FALSE"
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  MMCM Enable Param: MMCM_CLKOUT3_EN ==> FALSE
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT4_EN --- "FALSE"
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  MMCM Enable Param: MMCM_CLKOUT4_EN ==> FALSE
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT0_DIVIDE --- 5.000
+MIG: 09:26:00 : Prasad ----: possibleMaxVcoVal:: 800
+MIG: 09:26:00 : 160000000
+MIG: 09:26:00 :  MMCM Extra Param: MMCM_CLKOUT0_FREQ ==> 160000000
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT1_DIVIDE --- 4
+MIG: 09:26:00 : Prasad ----: possibleMaxVcoVal:: 800
+MIG: 09:26:00 : 200000000
+MIG: 09:26:00 :  MMCM Extra Param: MMCM_CLKOUT1_FREQ ==> 200000000
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT2_DIVIDE --- 1
+MIG: 09:26:00 : Prasad ----: possibleMaxVcoVal:: 800
+MIG: 09:26:00 : 800000000
+MIG: 09:26:00 :  MMCM Extra Param: MMCM_CLKOUT2_FREQ ==> 800000000
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT3_DIVIDE --- 1
+MIG: 09:26:00 : Prasad ----: possibleMaxVcoVal:: 800
+MIG: 09:26:00 : 800000000
+MIG: 09:26:00 :  MMCM Extra Param: MMCM_CLKOUT3_FREQ ==> 800000000
+MIG: 09:26:00 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT4_DIVIDE --- 1
+MIG: 09:26:00 : Prasad ----: possibleMaxVcoVal:: 800
+MIG: 09:26:00 : 800000000
+MIG: 09:26:00 :  MMCM Extra Param: MMCM_CLKOUT4_FREQ ==> 800000000
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  Valid Param: DDR3_BANK_WIDTH ==> 3
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  Valid Param: DDR3_CK_WIDTH ==> 1
+MIG: 09:26:00 :  Invalid Param: DDR3_COL_WIDTH ==> 10
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  Valid Param: DDR3_CS_WIDTH ==> 1
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  Valid Param: DDR3_nCS_PER_RANK ==> 1
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  Valid Param: DDR3_CKE_WIDTH ==> 1
+MIG: 09:26:00 :  Invalid Param: DDR3_DATA_BUF_ADDR_WIDTH ==> 5
+MIG: 09:26:00 :  Invalid Param: DDR3_DQ_CNT_WIDTH ==> 4
+MIG: 09:26:00 :  Invalid Param: DDR3_DQ_PER_DM ==> 8
+MIG: 09:26:00 : 2
+MIG: 09:26:00 :  Valid Param: DDR3_DM_WIDTH ==> 2
+MIG: 09:26:00 : 16
+MIG: 09:26:00 :  Valid Param: DDR3_DQ_WIDTH ==> 16
+MIG: 09:26:00 : 2
+MIG: 09:26:00 :  Valid Param: DDR3_DQS_WIDTH ==> 2
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  Valid Param: DDR3_DQS_CNT_WIDTH ==> 1
+MIG: 09:26:00 :  Invalid Param: DDR3_DRAM_WIDTH ==> 8
+MIG: 09:26:00 : 
+MIG: 09:26:00 :  Valid Param: ECC ==> OFF
+MIG: 09:26:00 : 16
+MIG: 09:26:00 :  Valid Param: DDR3_DATA_WIDTH ==> 16
+MIG: 09:26:00 :  Invalid Param: ECC_TEST ==> "OFF"
+MIG: 09:26:00 :  Invalid Param: DDR3_PAYLOAD_WIDTH ==> (ECC_TEST == "OFF") ? DATA_WIDTH : DQ_WIDTH
+MIG: 09:26:00 :  Invalid Param: DDR3_MEM_ADDR_ORDER ==> "BANK_ROW_COLUMN"
+MIG: 09:26:00 :  Invalid Param: DDR3_nBANK_MACHS ==> 4
+MIG: 09:26:00 :  Invalid Param: DDR3_RANKS ==> 1
+MIG: 09:26:00 : 
+MIG: 09:26:01 :  Valid Param: DDR3_ODT_WIDTH ==> 1
+MIG: 09:26:01 : 15
+MIG: 09:26:01 :  Valid Param: DDR3_ROW_WIDTH ==> 15
+MIG: 09:26:01 : 29
+MIG: 09:26:01 :  Valid Param: DDR3_ADDR_WIDTH ==> 29
+MIG: 09:26:01 : 0
+MIG: 09:26:01 :  Valid Param: DDR3_USE_CS_PORT ==> 0
+MIG: 09:26:01 : 
+MIG: 09:26:01 :  Valid Param: DDR3_USE_DM_PORT ==> 1
+MIG: 09:26:01 : 
+MIG: 09:26:01 :  Valid Param: DDR3_USE_ODT_PORT ==> 1
+MIG: 09:26:01 :  Invalid Param: DDR3_IS_CLK_SHARED ==> "FALSE"
+MIG: 09:26:01 :  Invalid Param: DDR3_PHY_CONTROL_MASTER_BANK ==> 0
+MIG: 09:26:01 :  Invalid Param: DDR3_MEM_DENSITY ==> "4Gb"
+MIG: 09:26:01 :  Invalid Param: DDR3_MEM_SPEEDGRADE ==> "125"
+MIG: 09:26:01 :  Invalid Param: DDR3_MEM_DEVICE_WIDTH ==> 16
+MIG: 09:26:01 :  Invalid Param: DDR3_AL ==> "0"
+MIG: 09:26:01 :  Invalid Param: DDR3_nAL ==> 0
+MIG: 09:26:01 :  Invalid Param: DDR3_BURST_MODE ==> "8"
+MIG: 09:26:01 :  Invalid Param: DDR3_BURST_TYPE ==> "SEQ"
+MIG: 09:26:01 :  Invalid Param: DDR3_CL ==> 6
+MIG: 09:26:01 :  Invalid Param: DDR3_CWL ==> 5
+MIG: 09:26:01 :  Invalid Param: DDR3_OUTPUT_DRV ==> "HIGH"
+MIG: 09:26:01 :  Invalid Param: DDR3_RTT_NOM ==> "40"
+MIG: 09:26:01 :  Invalid Param: DDR3_RTT_WR ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_ADDR_CMD_MODE ==> "1T"
+MIG: 09:26:01 : 
+MIG: 09:26:01 :  Valid Param: DDR3_REG_CTRL ==> OFF
+MIG: 09:26:01 :  Invalid Param: DDR3_CA_MIRROR ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_VDD_OP_VOLT ==> "150"
+MIG: 09:26:01 :  Invalid Param: DDR3_CLKIN_PERIOD ==> 10000
+MIG: 09:26:01 :  Invalid Param: DDR3_CLKFBOUT_MULT ==> 8
+MIG: 09:26:01 :  Invalid Param: DDR3_DIVCLK_DIVIDE ==> 1
+MIG: 09:26:01 :  Invalid Param: DDR3_CLKOUT0_PHASE ==> 337.5
+MIG: 09:26:01 :  Invalid Param: DDR3_CLKOUT0_DIVIDE ==> 2
+MIG: 09:26:01 :  Invalid Param: DDR3_CLKOUT1_DIVIDE ==> 2
+MIG: 09:26:01 :  Invalid Param: DDR3_CLKOUT2_DIVIDE ==> 32
+MIG: 09:26:01 :  Invalid Param: DDR3_CLKOUT3_DIVIDE ==> 8
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_VCO ==> 800
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_MULT_F ==> 8
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_DIVCLK_DIVIDE ==> 1
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT0_EN ==> "TRUE"
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT1_EN ==> "TRUE"
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT2_EN ==> "FALSE"
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT3_EN ==> "FALSE"
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT4_EN ==> "FALSE"
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT0_DIVIDE ==> 5.000
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT1_DIVIDE ==> 4
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT2_DIVIDE ==> 1
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT3_DIVIDE ==> 1
+MIG: 09:26:01 :  Invalid Param: DDR3_MMCM_CLKOUT4_DIVIDE ==> 1
+MIG: 09:26:01 :  Invalid Param: DDR3_tCKE ==> 5000
+MIG: 09:26:01 :  Invalid Param: DDR3_tFAW ==> 40000
+MIG: 09:26:01 :  Invalid Param: DDR3_tPRDI ==> 1_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_tRAS ==> 35000
+MIG: 09:26:01 :  Invalid Param: DDR3_tRCD ==> 13750
+MIG: 09:26:01 :  Invalid Param: DDR3_tREFI ==> 7800000
+MIG: 09:26:01 :  Invalid Param: DDR3_tRFC ==> 260000
+MIG: 09:26:01 :  Invalid Param: DDR3_tRP ==> 13750
+MIG: 09:26:01 :  Invalid Param: DDR3_tRRD ==> 7500
+MIG: 09:26:01 :  Invalid Param: DDR3_tRTP ==> 7500
+MIG: 09:26:01 :  Invalid Param: DDR3_tWTR ==> 7500
+MIG: 09:26:01 :  Invalid Param: DDR3_tZQI ==> 128_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_tZQCS ==> 64
+MIG: 09:26:01 :  Invalid Param: DDR3_SIM_BYPASS_INIT_CAL ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_SIMULATION ==> "FALSE"
+MIG: 09:26:01 :  Invalid Param: DDR3_BYTE_LANES_B0 ==> 4'b1111
+MIG: 09:26:01 :  Invalid Param: DDR3_BYTE_LANES_B1 ==> 4'b0000
+MIG: 09:26:01 :  Invalid Param: DDR3_BYTE_LANES_B2 ==> 4'b0000
+MIG: 09:26:01 :  Invalid Param: DDR3_BYTE_LANES_B3 ==> 4'b0000
+MIG: 09:26:01 :  Invalid Param: DDR3_BYTE_LANES_B4 ==> 4'b0000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA_CTL_B0 ==> 4'b1100
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA_CTL_B1 ==> 4'b0000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA_CTL_B2 ==> 4'b0000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA_CTL_B3 ==> 4'b0000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA_CTL_B4 ==> 4'b0000
+MIG: 09:26:01 :  Invalid Param: DDR3_PHY_0_BITLANES ==> 48'h3F7_3FE_FFF_BFF
+MIG: 09:26:01 :  Invalid Param: DDR3_PHY_1_BITLANES ==> 48'h000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_PHY_2_BITLANES ==> 48'h000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_CK_BYTE_MAP ==> 144'h00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00
+MIG: 09:26:01 :  Invalid Param: DDR3_ADDR_MAP ==> 192'h000_001_005_009_000_011_007_003_004_008_006_00B_01B_015_002_014
+MIG: 09:26:01 :  Invalid Param: DDR3_BANK_MAP ==> 36'h010_013_017
+MIG: 09:26:01 :  Invalid Param: DDR3_CAS_MAP ==> 12'h016
+MIG: 09:26:01 :  Invalid Param: DDR3_CKE_ODT_BYTE_MAP ==> 8'h00
+MIG: 09:26:01 :  Invalid Param: DDR3_CKE_MAP ==> 96'h000_000_000_000_000_000_000_012
+MIG: 09:26:01 :  Invalid Param: DDR3_ODT_MAP ==> 96'h000_000_000_000_000_000_000_019
+MIG: 09:26:01 :  Invalid Param: DDR3_CS_MAP ==> 120'h000_000_000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_PARITY_MAP ==> 12'h000
+MIG: 09:26:01 :  Invalid Param: DDR3_RAS_MAP ==> 12'h018
+MIG: 09:26:01 :  Invalid Param: DDR3_WE_MAP ==> 12'h01A
+MIG: 09:26:01 :  Invalid Param: DDR3_DQS_BYTE_MAP ==> 144'h00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_03_02
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA0_MAP ==> 96'h025_027_023_029_028_024_021_026
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA1_MAP ==> 96'h039_035_038_037_034_031_036_030
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA2_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA3_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA4_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA5_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA6_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA7_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA8_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA9_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA10_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA11_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA12_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA13_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA14_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA15_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA16_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA17_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_MASK0_MAP ==> 108'h000_000_000_000_000_000_000_032_022
+MIG: 09:26:01 :  Invalid Param: DDR3_MASK1_MAP ==> 108'h000_000_000_000_000_000_000_000_000
+MIG: 09:26:01 :  Invalid Param: DDR3_SLOT_0_CONFIG ==> 8'b0000_0001
+MIG: 09:26:01 :  Invalid Param: DDR3_SLOT_1_CONFIG ==> 8'b0000_0000
+MIG: 09:26:01 :  Invalid Param: DDR3_IBUF_LPWR_MODE ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA_IO_IDLE_PWRDWN ==> "ON"
+MIG: 09:26:01 :  Invalid Param: DDR3_BANK_TYPE ==> "HR_IO"
+MIG: 09:26:01 :  Invalid Param: DDR3_DATA_IO_PRIM_TYPE ==> "HR_LP"
+MIG: 09:26:01 :  Invalid Param: DDR3_CKE_ODT_AUX ==> "FALSE"
+MIG: 09:26:01 :  Invalid Param: DDR3_USER_REFRESH ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_WRLVL ==> "ON"
+MIG: 09:26:01 :  Invalid Param: DDR3_ORDERING ==> "NORM"
+MIG: 09:26:01 :  Invalid Param: DDR3_CALIB_ROW_ADD ==> 16'h0000
+MIG: 09:26:01 :  Invalid Param: DDR3_CALIB_COL_ADD ==> 12'h000
+MIG: 09:26:01 :  Invalid Param: DDR3_CALIB_BA_ADD ==> 3'h0
+MIG: 09:26:01 :  Invalid Param: DDR3_TCQ ==> 100
+MIG: 09:26:01 :  Invalid Param: DDR3_IDELAY_ADJ ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_FINE_PER_BIT ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_CENTER_COMP_MODE ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_PI_VAL_ADJ ==> "OFF"
+MIG: 09:26:01 :  Invalid Param: DDR3_IODELAY_GRP0 ==> "HDMI_MIG_7SERIES_0_0_IODELAY_MIG0"
+MIG: 09:26:01 :  Invalid Param: DDR3_IODELAY_GRP1 ==> "HDMI_MIG_7SERIES_0_0_IODELAY_MIG1"
+MIG: 09:26:01 :  Invalid Param: DDR3_SYSCLK_TYPE ==> "SINGLE_ENDED"
+MIG: 09:26:01 :  Invalid Param: DDR3_REFCLK_TYPE ==> "NO_BUFFER"
+MIG: 09:26:01 :  Invalid Param: DDR3_SYS_RST_PORT ==> "FALSE"
+MIG: 09:26:01 :  Invalid Param: DDR3_FPGA_SPEED_GRADE ==> 1
+MIG: 09:26:01 :  Invalid Param: DDR3_CMD_PIPE_PLUS1 ==> "ON"
+MIG: 09:26:01 :  Invalid Param: DDR3_DRAM_TYPE ==> "DDR3"
+MIG: 09:26:01 :  Invalid Param: DDR3_CAL_WIDTH ==> "HALF"
+MIG: 09:26:01 :  Invalid Param: DDR3_STARVE_LIMIT ==> 2
+MIG: 09:26:01 :  Invalid Param: DDR3_REF_CLK_MMCM_IODELAY_CTRL ==> "FALSE"
+MIG: 09:26:01 :  Invalid Param: DDR3_REFCLK_FREQ ==> 200.0
+MIG: 09:26:01 :  Invalid Param: DDR3_DIFF_TERM_REFCLK ==> "TRUE"
+MIG: 09:26:01 :  Invalid Param: DDR3_tCK ==> 2500
+MIG: 09:26:01 : 4
+MIG: 09:26:01 :  Valid Param: DDR3_nCK_PER_CLK ==> 4
+MIG: 09:26:01 :  Invalid Param: DDR3_DIFF_TERM_SYSCLK ==> "TRUE"
+MIG: 09:26:01 : TRUE
+MIG: 09:26:01 :  Valid Param: UI_EXTRA_CLOCKS ==> TRUE
+MIG: 09:26:01 : 2
+MIG: 09:26:01 :  Valid Param: C_S_AXI_ID_WIDTH ==> 2
+MIG: 09:26:01 : 536870912
+MIG: 09:26:01 :  Valid Param: C_S_AXI_MEM_SIZE ==> 536870912
+MIG: 09:26:01 : 29
+MIG: 09:26:01 :  Valid Param: C_S_AXI_ADDR_WIDTH ==> 29
+MIG: 09:26:01 : 128
+MIG: 09:26:01 :  Valid Param: C_S_AXI_DATA_WIDTH ==> 128
+MIG: 09:26:01 :  Invalid Param: DDR3_C_MC_nCK_PER_CLK ==> 4
+MIG: 09:26:01 :  Invalid Param: C_S_AXI_SUPPORTS_NARROW_BURST ==> 0
+MIG: 09:26:01 :  Invalid Param: DDR3_C_RD_WR_ARB_ALGORITHM ==> "RD_PRI_REG"
+MIG: 09:26:01 :  Invalid Param: C_S_AXI_REG_EN0 ==> 20'h00000
+MIG: 09:26:01 :  Invalid Param: C_S_AXI_REG_EN1 ==> 20'h00000
+MIG: 09:26:01 : 
+MIG: 09:26:01 :  Valid Param: C_S_AXI_CTRL_ADDR_WIDTH ==> 32
+MIG: 09:26:01 : 
+MIG: 09:26:01 :  Valid Param: C_S_AXI_CTRL_DATA_WIDTH ==> 32
+MIG: 09:26:01 :  Invalid Param: C_S_AXI_BASEADDR ==> 32'h0000_0000
+MIG: 09:26:01 :  Invalid Param: C_ECC_ONOFF_RESET_VALUE ==> 1
+MIG: 09:26:01 :  Invalid Param: C_ECC_CE_COUNTER_WIDTH ==> 8
+MIG: 09:26:01 : 
+MIG: 09:26:01 :  Valid Param: DDR3_DEBUG_PORT ==> OFF
+MIG: 09:26:01 : 
+MIG: 09:26:01 :  Invalid Param: DDR3_TEMP_MON_CONTROL ==> "INTERNAL"
+MIG: 09:26:01 :  Invalid Param: DDR3_RST_ACT_LOW ==> 1
+MIG: 09:26:01 : SINGLE
+MIG: 09:26:01 : NOBUF
+MIG: 09:26:01 : 
+MIG: 09:26:01 : Same Interface
+MIG: 09:28:34 : Running synthesis.xit
+MIG: 09:28:34 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 09:28:34 : IGN:         <InputClkFreq>100</InputClkFreq> <==>         <InputClkFreq>100</InputClkFreq> 
+MIG: 09:28:34 : ERR:             <Pin PADName="R4(MRCC_P)" Bank="34" name="sys_clk_i" /> <==>             <Pin PADName="R4" Bank="34" name="sys_clk_i" /> 
+MIG: 09:28:34 : ################# RUNNING MIG BATCH ###################
+MIG: 09:28:34 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx3/Vivado/2015.3/data/ip/xilinx/mig_7series_v2_4... instDirPath: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 09:28:34 : synp_flow:  -- synthesis_mode: Other
+MIG: 09:28:34 : outputDirectory: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 09:28:34 : vivado_mode: xpg_bd
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:34 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 1
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 : isPortInterface: 0
+MIG: 09:28:35 :  locked false  
+MIG: 09:28:35 : HDL Language: Verilog
+MIG: 09:28:35 : compInfo: false
+MIG: 09:28:35 : Vivado Options xc7a200t sbg484 -1
+MIG: 09:28:35 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 09:28:35 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe
+MIG: 09:28:35 : xilinx_path: C:/Xilinx3/Vivado/2015.3/ids_lite/ISE
+MIG: 09:28:35 : I am in catch area
+MIG: 09:28:35 : Running C:/Xilinx3/Vivado/2015.3/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 09:28:44 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 09:28:44 : Component_Name: hdmi_mig_7series_0_0
+MIG: 09:28:44 : Moving hdmi_mig_7series_0_0 ...
+MIG: 09:28:44 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 09:28:44 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 09:28:44 : Running vhdl_synth_rpr.xit
+MIG: 09:28:44 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 09:28:44 : IGN:         <InputClkFreq>100</InputClkFreq> <==>         <InputClkFreq>100</InputClkFreq> 
+MIG: 09:28:44 : ERR:             <Pin PADName="R4(MRCC_P)" Bank="34" name="sys_clk_i" /> <==>             <Pin PADName="R4" Bank="34" name="sys_clk_i" /> 
+MIG: 09:28:44 : ################# RUNNING MIG BATCH ###################
+MIG: 09:28:44 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx3/Vivado/2015.3/data/ip/xilinx/mig_7series_v2_4... instDirPath: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 09:28:44 : synp_flow:  -- synthesis_mode: Other
+MIG: 09:28:44 : outputDirectory: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 09:28:44 : vivado_mode: xpg_bd
+MIG: 09:28:44 : isPortInterface: 0
+MIG: 09:28:44 : isPortInterface: 0
+MIG: 09:28:44 : isPortInterface: 0
+MIG: 09:28:44 : isPortInterface: 0
+MIG: 09:28:44 : isPortInterface: 0
+MIG: 09:28:44 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 1
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 : isPortInterface: 0
+MIG: 09:28:45 :  locked false  
+MIG: 09:28:45 : HDL Language: Verilog
+MIG: 09:28:45 : compInfo: false
+MIG: 09:28:45 : Vivado Options xc7a200t sbg484 -1
+MIG: 09:28:45 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 09:28:45 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe
+MIG: 09:28:45 : xilinx_path: C:/Xilinx3/Vivado/2015.3/ids_lite/ISE
+MIG: 09:28:45 : I am in catch area
+MIG: 09:28:45 : Running C:/Xilinx3/Vivado/2015.3/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 09:28:54 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 09:28:54 : Component_Name: hdmi_mig_7series_0_0
+MIG: 09:28:54 : Moving hdmi_mig_7series_0_0 ...
+MIG: 09:28:54 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 09:28:54 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 09:28:54 : Running simulation.xit
+MIG: 09:28:54 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 09:28:54 : IGN:         <InputClkFreq>100</InputClkFreq> <==>         <InputClkFreq>100</InputClkFreq> 
+MIG: 09:28:54 : ERR:             <Pin PADName="R4(MRCC_P)" Bank="34" name="sys_clk_i" /> <==>             <Pin PADName="R4" Bank="34" name="sys_clk_i" /> 
+MIG: 09:28:54 : ################# RUNNING MIG BATCH ###################
+MIG: 09:28:54 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx3/Vivado/2015.3/data/ip/xilinx/mig_7series_v2_4... instDirPath: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 09:28:54 : synp_flow:  -- synthesis_mode: Other
+MIG: 09:28:54 : outputDirectory: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 09:28:54 : vivado_mode: xpg_bd
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:54 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 1
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 : isPortInterface: 0
+MIG: 09:28:55 :  locked false  
+MIG: 09:28:55 : HDL Language: Verilog
+MIG: 09:28:55 : compInfo: false
+MIG: 09:28:55 : Vivado Options xc7a200t sbg484 -1
+MIG: 09:28:55 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 09:28:55 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe
+MIG: 09:28:55 : xilinx_path: C:/Xilinx3/Vivado/2015.3/ids_lite/ISE
+MIG: 09:28:55 : I am in catch area
+MIG: 09:28:55 : Running C:/Xilinx3/Vivado/2015.3/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 09:29:04 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 09:29:04 : Component_Name: hdmi_mig_7series_0_0
+MIG: 09:29:04 : Moving hdmi_mig_7series_0_0 ...
+MIG: 09:29:04 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 09:29:04 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 09:29:04 : Running vlog_sim_rpr.xit .. PRASAD DBG1
+MIG: 09:29:04 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 09:29:04 : IGN:         <InputClkFreq>100</InputClkFreq> <==>         <InputClkFreq>100</InputClkFreq> 
+MIG: 09:29:04 : ERR:             <Pin PADName="R4(MRCC_P)" Bank="34" name="sys_clk_i" /> <==>             <Pin PADName="R4" Bank="34" name="sys_clk_i" /> 
+MIG: 09:29:04 : ################# RUNNING MIG BATCH ###################
+MIG: 09:29:04 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx3/Vivado/2015.3/data/ip/xilinx/mig_7series_v2_4... instDirPath: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 09:29:04 : synp_flow:  -- synthesis_mode: Other
+MIG: 09:29:04 : outputDirectory: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 09:29:04 : vivado_mode: xpg_bd
+MIG: 09:29:04 : isPortInterface: 0
+MIG: 09:29:04 : isPortInterface: 0
+MIG: 09:29:04 : isPortInterface: 0
+MIG: 09:29:04 : isPortInterface: 0
+MIG: 09:29:04 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 1
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 : isPortInterface: 0
+MIG: 09:29:05 :  locked false  
+MIG: 09:29:05 : HDL Language: Verilog
+MIG: 09:29:05 : compInfo: false
+MIG: 09:29:05 : Vivado Options xc7a200t sbg484 -1
+MIG: 09:29:05 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 09:29:05 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe
+MIG: 09:29:05 : xilinx_path: C:/Xilinx3/Vivado/2015.3/ids_lite/ISE
+MIG: 09:29:05 : I am in catch area
+MIG: 09:29:05 : Running C:/Xilinx3/Vivado/2015.3/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 09:29:14 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 09:29:14 : Component_Name: hdmi_mig_7series_0_0
+MIG: 09:29:14 : Moving hdmi_mig_7series_0_0 ...
+MIG: 09:29:14 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 09:29:14 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 09:29:14 : Running implementation.xit
+MIG: 09:29:14 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 09:29:14 : IGN:         <InputClkFreq>100</InputClkFreq> <==>         <InputClkFreq>100</InputClkFreq> 
+MIG: 09:29:14 : ERR:             <Pin PADName="R4(MRCC_P)" Bank="34" name="sys_clk_i" /> <==>             <Pin PADName="R4" Bank="34" name="sys_clk_i" /> 
+MIG: 09:29:14 : ################# RUNNING MIG BATCH ###################
+MIG: 09:29:14 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx3/Vivado/2015.3/data/ip/xilinx/mig_7series_v2_4... instDirPath: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 09:29:14 : synp_flow:  -- synthesis_mode: Other
+MIG: 09:29:14 : outputDirectory: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 09:29:14 : vivado_mode: xpg_bd
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:14 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 1
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 : isPortInterface: 0
+MIG: 09:29:15 :  locked false  
+MIG: 09:29:15 : HDL Language: Verilog
+MIG: 09:29:15 : compInfo: false
+MIG: 09:29:15 : Vivado Options xc7a200t sbg484 -1
+MIG: 09:29:15 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 09:29:15 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe
+MIG: 09:29:15 : xilinx_path: C:/Xilinx3/Vivado/2015.3/ids_lite/ISE
+MIG: 09:29:15 : I am in catch area
+MIG: 09:29:15 : Running C:/Xilinx3/Vivado/2015.3/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v2_4/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 09:29:24 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/hdmi/proj/hdmi.srcs/sources_1/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 09:29:24 : Component_Name: hdmi_mig_7series_0_0
+MIG: 09:29:24 : Moving hdmi_mig_7series_0_0 ...
+MIG: 09:29:24 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 09:29:24 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 14:51:05 : xml_input_file: mig_b.prj
+MIG: 14:51:05 : Absolute path of xml_input_file: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:51:05 : xml_input_file: mig_b.prj
+MIG: 14:51:05 : Absolute path of xml_input_file: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:51:05 : In updateAllModelParams
+MIG: 14:51:05 : ################# RUNNING MIG BATCH ###################
+MIG: 14:51:05 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 14:51:05 : synp_flow:  -- synthesis_mode: Other
+MIG: 14:51:05 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 14:51:05 : vivado_mode: xpg_bd
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:05 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 1
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 : isPortInterface: 0
+MIG: 14:51:06 :  locked false  
+MIG: 14:51:06 : HDL Language: Verilog
+MIG: 14:51:06 : compInfo: true
+MIG: 14:51:06 : Vivado Options xc7a200t sbg484 -1
+MIG: 14:51:06 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 14:51:06 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 14:51:06 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 14:51:06 : I am in catch area
+MIG: 14:51:06 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 14:51:17 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:51:17 : Component_Name: hdmi_mig_7series_0_0
+MIG: 14:51:17 : Moving hdmi_mig_7series_0_0 ...
+MIG: 14:51:17 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 14:51:17 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 14:51:17 : XGUI hdlLanguage: Verilog
+MIG: 14:51:17 : xgui vivado_mode: xpg_bd
+MIG: 14:51:17 : xgui hdlLanguage: Verilog -- hdlExt: v
+MIG: 14:51:17 : Reading C:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/hdmi_mig_7series_0_0/user_design/rtl/hdmi_mig_7series_0_0_mig.v ...
+MIG: 14:51:18 : 1
+MIG: 14:51:18 : Inside fn mem: DDR3
+MIG: 14:51:18 : detect_uiclk: 100000000
+MIG: 14:51:18 : cntrl:  memtype: DDR3
+MIG: 14:51:18 : 800
+MIG: 14:51:18 :  MMCM_VCO single ctrl param_name: MMCM_VCO --  possibleMaxVcoVal: 800 
+MIG: 14:51:18 : 
+MIG: 14:51:18 : 1
+MIG: 14:51:18 : 100000000
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  polarity_value: 1
+MIG: 14:51:18 : 
+MIG: 14:51:18 : 
+MIG: 14:51:18 : cntrl:  memtype: DDR3
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT0_EN --- "TRUE"
+MIG: 14:51:18 : TRUE
+MIG: 14:51:18 :  MMCM Enable Param: MMCM_CLKOUT0_EN ==> TRUE
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT1_EN --- "TRUE"
+MIG: 14:51:18 : TRUE
+MIG: 14:51:18 :  MMCM Enable Param: MMCM_CLKOUT1_EN ==> TRUE
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT2_EN --- "FALSE"
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  MMCM Enable Param: MMCM_CLKOUT2_EN ==> FALSE
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT3_EN --- "FALSE"
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  MMCM Enable Param: MMCM_CLKOUT3_EN ==> FALSE
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT4_EN --- "FALSE"
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  MMCM Enable Param: MMCM_CLKOUT4_EN ==> FALSE
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT0_DIVIDE --- 5.000
+MIG: 14:51:18 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT0_DIVIDE
+MIG: 14:51:18 : 160000000
+MIG: 14:51:18 :  MMCM Extra Param: MMCM_CLKOUT0_FREQ ==> 160000000
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT1_DIVIDE --- 4
+MIG: 14:51:18 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT1_DIVIDE
+MIG: 14:51:18 : 200000000
+MIG: 14:51:18 :  MMCM Extra Param: MMCM_CLKOUT1_FREQ ==> 200000000
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT2_DIVIDE --- 1
+MIG: 14:51:18 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT2_DIVIDE
+MIG: 14:51:18 : 800000000
+MIG: 14:51:18 :  MMCM Extra Param: MMCM_CLKOUT2_FREQ ==> 800000000
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT3_DIVIDE --- 1
+MIG: 14:51:18 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT3_DIVIDE
+MIG: 14:51:18 : 800000000
+MIG: 14:51:18 :  MMCM Extra Param: MMCM_CLKOUT3_FREQ ==> 800000000
+MIG: 14:51:18 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT4_DIVIDE --- 1
+MIG: 14:51:18 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT4_DIVIDE
+MIG: 14:51:18 : 800000000
+MIG: 14:51:18 :  MMCM Extra Param: MMCM_CLKOUT4_FREQ ==> 800000000
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_BANK_WIDTH ==> 3
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_CK_WIDTH ==> 1
+MIG: 14:51:18 :  Invalid Param: DDR3_COL_WIDTH ==> 10
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_CS_WIDTH ==> 1
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_nCS_PER_RANK ==> 1
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_CKE_WIDTH ==> 1
+MIG: 14:51:18 :  Invalid Param: DDR3_DATA_BUF_ADDR_WIDTH ==> 5
+MIG: 14:51:18 :  Invalid Param: DDR3_DQ_CNT_WIDTH ==> 4
+MIG: 14:51:18 :  Invalid Param: DDR3_DQ_PER_DM ==> 8
+MIG: 14:51:18 : 2
+MIG: 14:51:18 :  Valid Param: DDR3_DM_WIDTH ==> 2
+MIG: 14:51:18 : 16
+MIG: 14:51:18 :  Valid Param: DDR3_DQ_WIDTH ==> 16
+MIG: 14:51:18 : 2
+MIG: 14:51:18 :  Valid Param: DDR3_DQS_WIDTH ==> 2
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_DQS_CNT_WIDTH ==> 1
+MIG: 14:51:18 :  Invalid Param: DDR3_DRAM_WIDTH ==> 8
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: ECC ==> OFF
+MIG: 14:51:18 : 16
+MIG: 14:51:18 :  Valid Param: DDR3_DATA_WIDTH ==> 16
+MIG: 14:51:18 :  Invalid Param: ECC_TEST ==> "OFF"
+MIG: 14:51:18 :  Invalid Param: DDR3_PAYLOAD_WIDTH ==> (ECC_TEST == "OFF") ? DATA_WIDTH : DQ_WIDTH
+MIG: 14:51:18 :  Invalid Param: DDR3_MEM_ADDR_ORDER ==> "BANK_ROW_COLUMN"
+MIG: 14:51:18 :  Invalid Param: DDR3_nBANK_MACHS ==> 4
+MIG: 14:51:18 :  Invalid Param: DDR3_RANKS ==> 1
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_ODT_WIDTH ==> 1
+MIG: 14:51:18 : 15
+MIG: 14:51:18 :  Valid Param: DDR3_ROW_WIDTH ==> 15
+MIG: 14:51:18 : 29
+MIG: 14:51:18 :  Valid Param: DDR3_ADDR_WIDTH ==> 29
+MIG: 14:51:18 : 0
+MIG: 14:51:18 :  Valid Param: DDR3_USE_CS_PORT ==> 0
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_USE_DM_PORT ==> 1
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_USE_ODT_PORT ==> 1
+MIG: 14:51:18 :  Invalid Param: DDR3_IS_CLK_SHARED ==> "FALSE"
+MIG: 14:51:18 :  Invalid Param: DDR3_PHY_CONTROL_MASTER_BANK ==> 0
+MIG: 14:51:18 :  Invalid Param: DDR3_MEM_DENSITY ==> "4Gb"
+MIG: 14:51:18 :  Invalid Param: DDR3_MEM_SPEEDGRADE ==> "125"
+MIG: 14:51:18 :  Invalid Param: DDR3_MEM_DEVICE_WIDTH ==> 16
+MIG: 14:51:18 :  Invalid Param: DDR3_AL ==> "0"
+MIG: 14:51:18 :  Invalid Param: DDR3_nAL ==> 0
+MIG: 14:51:18 :  Invalid Param: DDR3_BURST_MODE ==> "8"
+MIG: 14:51:18 :  Invalid Param: DDR3_BURST_TYPE ==> "SEQ"
+MIG: 14:51:18 :  Invalid Param: DDR3_CL ==> 6
+MIG: 14:51:18 :  Invalid Param: DDR3_CWL ==> 5
+MIG: 14:51:18 :  Invalid Param: DDR3_OUTPUT_DRV ==> "HIGH"
+MIG: 14:51:18 :  Invalid Param: DDR3_RTT_NOM ==> "40"
+MIG: 14:51:18 :  Invalid Param: DDR3_RTT_WR ==> "OFF"
+MIG: 14:51:18 :  Invalid Param: DDR3_ADDR_CMD_MODE ==> "1T"
+MIG: 14:51:18 : 
+MIG: 14:51:18 :  Valid Param: DDR3_REG_CTRL ==> OFF
+MIG: 14:51:18 :  Invalid Param: DDR3_CA_MIRROR ==> "OFF"
+MIG: 14:51:18 :  Invalid Param: DDR3_VDD_OP_VOLT ==> "150"
+MIG: 14:51:18 :  Invalid Param: DDR3_CLKIN_PERIOD ==> 10000
+MIG: 14:51:18 :  Invalid Param: DDR3_CLKFBOUT_MULT ==> 8
+MIG: 14:51:18 :  Invalid Param: DDR3_DIVCLK_DIVIDE ==> 1
+MIG: 14:51:18 :  Invalid Param: DDR3_CLKOUT0_PHASE ==> 0.0
+MIG: 14:51:18 :  Invalid Param: DDR3_CLKOUT0_DIVIDE ==> 1
+MIG: 14:51:18 :  Invalid Param: DDR3_CLKOUT1_DIVIDE ==> 2
+MIG: 14:51:18 :  Invalid Param: DDR3_CLKOUT2_DIVIDE ==> 32
+MIG: 14:51:18 :  Invalid Param: DDR3_CLKOUT3_DIVIDE ==> 8
+MIG: 14:51:18 :  Invalid Param: DDR3_MMCM_VCO ==> 800
+MIG: 14:51:18 :  Invalid Param: DDR3_MMCM_MULT_F ==> 8
+MIG: 14:51:18 :  Invalid Param: DDR3_MMCM_DIVCLK_DIVIDE ==> 1
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT0_EN ==> "TRUE"
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT1_EN ==> "TRUE"
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT2_EN ==> "FALSE"
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT3_EN ==> "FALSE"
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT4_EN ==> "FALSE"
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT0_DIVIDE ==> 5.000
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT1_DIVIDE ==> 4
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT2_DIVIDE ==> 1
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT3_DIVIDE ==> 1
+MIG: 14:51:19 :  Invalid Param: DDR3_MMCM_CLKOUT4_DIVIDE ==> 1
+MIG: 14:51:19 :  Invalid Param: DDR3_tCKE ==> 5000
+MIG: 14:51:19 :  Invalid Param: DDR3_tFAW ==> 40000
+MIG: 14:51:19 :  Invalid Param: DDR3_tPRDI ==> 1_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_tRAS ==> 35000
+MIG: 14:51:19 :  Invalid Param: DDR3_tRCD ==> 13750
+MIG: 14:51:19 :  Invalid Param: DDR3_tREFI ==> 7800000
+MIG: 14:51:19 :  Invalid Param: DDR3_tRFC ==> 260000
+MIG: 14:51:19 :  Invalid Param: DDR3_tRP ==> 13750
+MIG: 14:51:19 :  Invalid Param: DDR3_tRRD ==> 7500
+MIG: 14:51:19 :  Invalid Param: DDR3_tRTP ==> 7500
+MIG: 14:51:19 :  Invalid Param: DDR3_tWTR ==> 7500
+MIG: 14:51:19 :  Invalid Param: DDR3_tZQI ==> 128_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_tZQCS ==> 64
+MIG: 14:51:19 :  Invalid Param: DDR3_SIM_BYPASS_INIT_CAL ==> "OFF"
+MIG: 14:51:19 :  Invalid Param: DDR3_SIMULATION ==> "FALSE"
+MIG: 14:51:19 :  Invalid Param: DDR3_BYTE_LANES_B0 ==> 4'b1111
+MIG: 14:51:19 :  Invalid Param: DDR3_BYTE_LANES_B1 ==> 4'b0000
+MIG: 14:51:19 :  Invalid Param: DDR3_BYTE_LANES_B2 ==> 4'b0000
+MIG: 14:51:19 :  Invalid Param: DDR3_BYTE_LANES_B3 ==> 4'b0000
+MIG: 14:51:19 :  Invalid Param: DDR3_BYTE_LANES_B4 ==> 4'b0000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA_CTL_B0 ==> 4'b1100
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA_CTL_B1 ==> 4'b0000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA_CTL_B2 ==> 4'b0000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA_CTL_B3 ==> 4'b0000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA_CTL_B4 ==> 4'b0000
+MIG: 14:51:19 :  Invalid Param: DDR3_PHY_0_BITLANES ==> 48'h3F7_3FE_FFF_BFF
+MIG: 14:51:19 :  Invalid Param: DDR3_PHY_1_BITLANES ==> 48'h000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_PHY_2_BITLANES ==> 48'h000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_CK_BYTE_MAP ==> 144'h00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00
+MIG: 14:51:19 :  Invalid Param: DDR3_ADDR_MAP ==> 192'h000_001_005_009_000_011_007_003_004_008_006_00B_01B_015_002_014
+MIG: 14:51:19 :  Invalid Param: DDR3_BANK_MAP ==> 36'h010_013_017
+MIG: 14:51:19 :  Invalid Param: DDR3_CAS_MAP ==> 12'h016
+MIG: 14:51:19 :  Invalid Param: DDR3_CKE_ODT_BYTE_MAP ==> 8'h00
+MIG: 14:51:19 :  Invalid Param: DDR3_CKE_MAP ==> 96'h000_000_000_000_000_000_000_012
+MIG: 14:51:19 :  Invalid Param: DDR3_ODT_MAP ==> 96'h000_000_000_000_000_000_000_019
+MIG: 14:51:19 :  Invalid Param: DDR3_CS_MAP ==> 120'h000_000_000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_PARITY_MAP ==> 12'h000
+MIG: 14:51:19 :  Invalid Param: DDR3_RAS_MAP ==> 12'h018
+MIG: 14:51:19 :  Invalid Param: DDR3_WE_MAP ==> 12'h01A
+MIG: 14:51:19 :  Invalid Param: DDR3_DQS_BYTE_MAP ==> 144'h00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_03_02
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA0_MAP ==> 96'h025_027_023_029_028_024_021_026
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA1_MAP ==> 96'h039_035_038_037_034_031_036_030
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA2_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA3_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA4_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA5_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA6_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA7_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA8_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA9_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA10_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA11_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA12_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA13_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA14_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA15_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA16_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA17_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_MASK0_MAP ==> 108'h000_000_000_000_000_000_000_032_022
+MIG: 14:51:19 :  Invalid Param: DDR3_MASK1_MAP ==> 108'h000_000_000_000_000_000_000_000_000
+MIG: 14:51:19 :  Invalid Param: DDR3_SLOT_0_CONFIG ==> 8'b0000_0001
+MIG: 14:51:19 :  Invalid Param: DDR3_SLOT_1_CONFIG ==> 8'b0000_0000
+MIG: 14:51:19 :  Invalid Param: DDR3_IBUF_LPWR_MODE ==> "OFF"
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA_IO_IDLE_PWRDWN ==> "ON"
+MIG: 14:51:19 :  Invalid Param: DDR3_BANK_TYPE ==> "HR_IO"
+MIG: 14:51:19 :  Invalid Param: DDR3_DATA_IO_PRIM_TYPE ==> "HR_LP"
+MIG: 14:51:19 :  Invalid Param: DDR3_CKE_ODT_AUX ==> "FALSE"
+MIG: 14:51:19 :  Invalid Param: DDR3_USER_REFRESH ==> "OFF"
+MIG: 14:51:19 :  Invalid Param: DDR3_WRLVL ==> "ON"
+MIG: 14:51:19 :  Invalid Param: DDR3_ORDERING ==> "NORM"
+MIG: 14:51:19 :  Invalid Param: DDR3_CALIB_ROW_ADD ==> 16'h0000
+MIG: 14:51:19 :  Invalid Param: DDR3_CALIB_COL_ADD ==> 12'h000
+MIG: 14:51:19 :  Invalid Param: DDR3_CALIB_BA_ADD ==> 3'h0
+MIG: 14:51:19 :  Invalid Param: DDR3_TCQ ==> 100
+MIG: 14:51:19 :  Invalid Param: DDR3_IDELAY_ADJ ==> "OFF"
+MIG: 14:51:19 :  Invalid Param: DDR3_FINE_PER_BIT ==> "OFF"
+MIG: 14:51:19 :  Invalid Param: DDR3_CENTER_COMP_MODE ==> "OFF"
+MIG: 14:51:19 :  Invalid Param: DDR3_PI_VAL_ADJ ==> "OFF"
+MIG: 14:51:19 :  Invalid Param: DDR3_IODELAY_GRP0 ==> "HDMI_MIG_7SERIES_0_0_IODELAY_MIG0"
+MIG: 14:51:19 :  Invalid Param: DDR3_IODELAY_GRP1 ==> "HDMI_MIG_7SERIES_0_0_IODELAY_MIG1"
+MIG: 14:51:19 :  Invalid Param: DDR3_SYSCLK_TYPE ==> "SINGLE_ENDED"
+MIG: 14:51:19 :  Invalid Param: DDR3_REFCLK_TYPE ==> "NO_BUFFER"
+MIG: 14:51:19 :  Invalid Param: DDR3_SYS_RST_PORT ==> "FALSE"
+MIG: 14:51:19 :  Invalid Param: DDR3_FPGA_SPEED_GRADE ==> 1
+MIG: 14:51:19 :  Invalid Param: DDR3_CMD_PIPE_PLUS1 ==> "ON"
+MIG: 14:51:19 :  Invalid Param: DDR3_DRAM_TYPE ==> "DDR3"
+MIG: 14:51:19 :  Invalid Param: DDR3_CAL_WIDTH ==> "HALF"
+MIG: 14:51:19 :  Invalid Param: DDR3_STARVE_LIMIT ==> 2
+MIG: 14:51:19 :  Invalid Param: DDR3_REF_CLK_MMCM_IODELAY_CTRL ==> "FALSE"
+MIG: 14:51:19 :  Invalid Param: DDR3_REFCLK_FREQ ==> 200.0
+MIG: 14:51:19 :  Invalid Param: DDR3_DIFF_TERM_REFCLK ==> "TRUE"
+MIG: 14:51:19 :  Invalid Param: DDR3_tCK ==> 2500
+MIG: 14:51:19 : 4
+MIG: 14:51:19 :  Valid Param: DDR3_nCK_PER_CLK ==> 4
+MIG: 14:51:19 :  Invalid Param: DDR3_DIFF_TERM_SYSCLK ==> "TRUE"
+MIG: 14:51:19 : TRUE
+MIG: 14:51:19 :  Valid Param: UI_EXTRA_CLOCKS ==> TRUE
+MIG: 14:51:19 : 2
+MIG: 14:51:19 :  Valid Param: C_S_AXI_ID_WIDTH ==> 2
+MIG: 14:51:19 : 536870912
+MIG: 14:51:19 :  Valid Param: C_S_AXI_MEM_SIZE ==> 536870912
+MIG: 14:51:19 : 29
+MIG: 14:51:19 :  Valid Param: C_S_AXI_ADDR_WIDTH ==> 29
+MIG: 14:51:19 : 128
+MIG: 14:51:19 :  Valid Param: C_S_AXI_DATA_WIDTH ==> 128
+MIG: 14:51:19 :  Invalid Param: DDR3_C_MC_nCK_PER_CLK ==> 4
+MIG: 14:51:19 :  Invalid Param: C_S_AXI_SUPPORTS_NARROW_BURST ==> 0
+MIG: 14:51:19 :  Invalid Param: DDR3_C_RD_WR_ARB_ALGORITHM ==> "RD_PRI_REG"
+MIG: 14:51:19 :  Invalid Param: C_S_AXI_REG_EN0 ==> 20'h00000
+MIG: 14:51:19 :  Invalid Param: C_S_AXI_REG_EN1 ==> 20'h00000
+MIG: 14:51:19 : 
+MIG: 14:51:19 :  Valid Param: C_S_AXI_CTRL_ADDR_WIDTH ==> 32
+MIG: 14:51:19 : 
+MIG: 14:51:19 :  Valid Param: C_S_AXI_CTRL_DATA_WIDTH ==> 32
+MIG: 14:51:19 :  Invalid Param: C_S_AXI_BASEADDR ==> 32'h0000_0000
+MIG: 14:51:19 :  Invalid Param: C_ECC_ONOFF_RESET_VALUE ==> 1
+MIG: 14:51:19 :  Invalid Param: C_ECC_CE_COUNTER_WIDTH ==> 8
+MIG: 14:51:19 : 
+MIG: 14:51:19 :  Valid Param: DDR3_DEBUG_PORT ==> OFF
+MIG: 14:51:19 : 
+MIG: 14:51:19 :  Invalid Param: DDR3_TEMP_MON_CONTROL ==> "INTERNAL"
+MIG: 14:51:19 :  Invalid Param: DDR3_FPGA_VOLT_TYPE ==> "N"
+MIG: 14:51:19 :  Invalid Param: DDR3_RST_ACT_LOW ==> 1
+MIG: 14:51:19 : SINGLE
+MIG: 14:51:19 : NOBUF
+MIG: 14:51:19 : 
+MIG: 14:51:19 : Same Interface
+MIG: 14:51:20 : xml_input_file: mig_b.prj
+MIG: 14:51:20 : Absolute path of xml_input_file: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:51:20 : In updateAllModelParams
+MIG: 14:51:20 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 14:51:20 : ERR:     <Version>2.4</Version> <==>     <Version>4.0</Version> 
+MIG: 14:51:20 : ################# RUNNING MIG BATCH ###################
+MIG: 14:51:20 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 14:51:20 : synp_flow:  -- synthesis_mode: Other
+MIG: 14:51:20 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 14:51:20 : vivado_mode: xpg_bd
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:20 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 1
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 : isPortInterface: 0
+MIG: 14:51:21 :  locked false  
+MIG: 14:51:21 : HDL Language: Verilog
+MIG: 14:51:21 : compInfo: true
+MIG: 14:51:21 : Vivado Options xc7a200t sbg484 -1
+MIG: 14:51:21 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 14:51:21 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 14:51:21 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 14:51:21 : I am in catch area
+MIG: 14:51:21 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 14:51:30 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:51:30 : Component_Name: hdmi_mig_7series_0_0
+MIG: 14:51:30 : Moving hdmi_mig_7series_0_0 ...
+MIG: 14:51:30 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 14:51:30 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 14:51:30 : XGUI hdlLanguage: Verilog
+MIG: 14:51:30 : xgui vivado_mode: xpg_bd
+MIG: 14:51:30 : xgui hdlLanguage: Verilog -- hdlExt: v
+MIG: 14:51:30 : Reading C:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/hdmi_mig_7series_0_0/user_design/rtl/hdmi_mig_7series_0_0_mig.v ...
+MIG: 14:51:31 : 
+MIG: 14:51:31 : Inside fn mem: DDR3
+MIG: 14:51:31 : detect_uiclk: 100000000
+MIG: 14:51:31 : cntrl:  memtype: DDR3
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM_VCO single ctrl param_name: MMCM_VCO --  possibleMaxVcoVal: 800 
+MIG: 14:51:31 : 
+MIG: 14:51:31 : 
+MIG: 14:51:31 : 
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  polarity_value: 1
+MIG: 14:51:31 : 
+MIG: 14:51:31 : 
+MIG: 14:51:31 : cntrl:  memtype: DDR3
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT0_EN --- "TRUE"
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Enable Param: MMCM_CLKOUT0_EN ==> TRUE
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT1_EN --- "TRUE"
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Enable Param: MMCM_CLKOUT1_EN ==> TRUE
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT2_EN --- "FALSE"
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Enable Param: MMCM_CLKOUT2_EN ==> FALSE
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT3_EN --- "FALSE"
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Enable Param: MMCM_CLKOUT3_EN ==> FALSE
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT4_EN --- "FALSE"
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Enable Param: MMCM_CLKOUT4_EN ==> FALSE
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT0_DIVIDE --- 5.000
+MIG: 14:51:31 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT0_DIVIDE
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Extra Param: MMCM_CLKOUT0_FREQ ==> 160000000
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT1_DIVIDE --- 4
+MIG: 14:51:31 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT1_DIVIDE
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Extra Param: MMCM_CLKOUT1_FREQ ==> 200000000
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT2_DIVIDE --- 1
+MIG: 14:51:31 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT2_DIVIDE
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Extra Param: MMCM_CLKOUT2_FREQ ==> 800000000
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT3_DIVIDE --- 1
+MIG: 14:51:31 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT3_DIVIDE
+MIG: 14:51:31 : 
+MIG: 14:51:31 :  MMCM Extra Param: MMCM_CLKOUT3_FREQ ==> 800000000
+MIG: 14:51:31 : Prasad ----: isMMCMExtraClkParam:: MMCM_CLKOUT4_DIVIDE --- 1
+MIG: 14:51:31 : possibleMaxVcoVal:: 800 ---- paramName: MMCM_CLKOUT4_DIVIDE
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  MMCM Extra Param: MMCM_CLKOUT4_FREQ ==> 800000000
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_BANK_WIDTH ==> 3
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_CK_WIDTH ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_COL_WIDTH ==> 10
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_CS_WIDTH ==> 1
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_nCS_PER_RANK ==> 1
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_CKE_WIDTH ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA_BUF_ADDR_WIDTH ==> 5
+MIG: 14:51:32 :  Invalid Param: DDR3_DQ_CNT_WIDTH ==> 4
+MIG: 14:51:32 :  Invalid Param: DDR3_DQ_PER_DM ==> 8
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_DM_WIDTH ==> 2
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_DQ_WIDTH ==> 16
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_DQS_WIDTH ==> 2
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_DQS_CNT_WIDTH ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_DRAM_WIDTH ==> 8
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: ECC ==> OFF
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_DATA_WIDTH ==> 16
+MIG: 14:51:32 :  Invalid Param: ECC_TEST ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_PAYLOAD_WIDTH ==> (ECC_TEST == "OFF") ? DATA_WIDTH : DQ_WIDTH
+MIG: 14:51:32 :  Invalid Param: DDR3_MEM_ADDR_ORDER ==> "BANK_ROW_COLUMN"
+MIG: 14:51:32 :  Invalid Param: DDR3_nBANK_MACHS ==> 4
+MIG: 14:51:32 :  Invalid Param: DDR3_RANKS ==> 1
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_ODT_WIDTH ==> 1
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_ROW_WIDTH ==> 15
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_ADDR_WIDTH ==> 29
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_USE_CS_PORT ==> 0
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_USE_DM_PORT ==> 1
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_USE_ODT_PORT ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_IS_CLK_SHARED ==> "FALSE"
+MIG: 14:51:32 :  Invalid Param: DDR3_PHY_CONTROL_MASTER_BANK ==> 0
+MIG: 14:51:32 :  Invalid Param: DDR3_MEM_DENSITY ==> "4Gb"
+MIG: 14:51:32 :  Invalid Param: DDR3_MEM_SPEEDGRADE ==> "125"
+MIG: 14:51:32 :  Invalid Param: DDR3_MEM_DEVICE_WIDTH ==> 16
+MIG: 14:51:32 :  Invalid Param: DDR3_AL ==> "0"
+MIG: 14:51:32 :  Invalid Param: DDR3_nAL ==> 0
+MIG: 14:51:32 :  Invalid Param: DDR3_BURST_MODE ==> "8"
+MIG: 14:51:32 :  Invalid Param: DDR3_BURST_TYPE ==> "SEQ"
+MIG: 14:51:32 :  Invalid Param: DDR3_CL ==> 6
+MIG: 14:51:32 :  Invalid Param: DDR3_CWL ==> 5
+MIG: 14:51:32 :  Invalid Param: DDR3_OUTPUT_DRV ==> "HIGH"
+MIG: 14:51:32 :  Invalid Param: DDR3_RTT_NOM ==> "40"
+MIG: 14:51:32 :  Invalid Param: DDR3_RTT_WR ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_ADDR_CMD_MODE ==> "1T"
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_REG_CTRL ==> OFF
+MIG: 14:51:32 :  Invalid Param: DDR3_CA_MIRROR ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_VDD_OP_VOLT ==> "150"
+MIG: 14:51:32 :  Invalid Param: DDR3_CLKIN_PERIOD ==> 10000
+MIG: 14:51:32 :  Invalid Param: DDR3_CLKFBOUT_MULT ==> 8
+MIG: 14:51:32 :  Invalid Param: DDR3_DIVCLK_DIVIDE ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_CLKOUT0_PHASE ==> 0.0
+MIG: 14:51:32 :  Invalid Param: DDR3_CLKOUT0_DIVIDE ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_CLKOUT1_DIVIDE ==> 2
+MIG: 14:51:32 :  Invalid Param: DDR3_CLKOUT2_DIVIDE ==> 32
+MIG: 14:51:32 :  Invalid Param: DDR3_CLKOUT3_DIVIDE ==> 8
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_VCO ==> 800
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_MULT_F ==> 8
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_DIVCLK_DIVIDE ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT0_EN ==> "TRUE"
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT1_EN ==> "TRUE"
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT2_EN ==> "FALSE"
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT3_EN ==> "FALSE"
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT4_EN ==> "FALSE"
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT0_DIVIDE ==> 5.000
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT1_DIVIDE ==> 4
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT2_DIVIDE ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT3_DIVIDE ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_MMCM_CLKOUT4_DIVIDE ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_tCKE ==> 5000
+MIG: 14:51:32 :  Invalid Param: DDR3_tFAW ==> 40000
+MIG: 14:51:32 :  Invalid Param: DDR3_tPRDI ==> 1_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_tRAS ==> 35000
+MIG: 14:51:32 :  Invalid Param: DDR3_tRCD ==> 13750
+MIG: 14:51:32 :  Invalid Param: DDR3_tREFI ==> 7800000
+MIG: 14:51:32 :  Invalid Param: DDR3_tRFC ==> 260000
+MIG: 14:51:32 :  Invalid Param: DDR3_tRP ==> 13750
+MIG: 14:51:32 :  Invalid Param: DDR3_tRRD ==> 7500
+MIG: 14:51:32 :  Invalid Param: DDR3_tRTP ==> 7500
+MIG: 14:51:32 :  Invalid Param: DDR3_tWTR ==> 7500
+MIG: 14:51:32 :  Invalid Param: DDR3_tZQI ==> 128_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_tZQCS ==> 64
+MIG: 14:51:32 :  Invalid Param: DDR3_SIM_BYPASS_INIT_CAL ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_SIMULATION ==> "FALSE"
+MIG: 14:51:32 :  Invalid Param: DDR3_BYTE_LANES_B0 ==> 4'b1111
+MIG: 14:51:32 :  Invalid Param: DDR3_BYTE_LANES_B1 ==> 4'b0000
+MIG: 14:51:32 :  Invalid Param: DDR3_BYTE_LANES_B2 ==> 4'b0000
+MIG: 14:51:32 :  Invalid Param: DDR3_BYTE_LANES_B3 ==> 4'b0000
+MIG: 14:51:32 :  Invalid Param: DDR3_BYTE_LANES_B4 ==> 4'b0000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA_CTL_B0 ==> 4'b1100
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA_CTL_B1 ==> 4'b0000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA_CTL_B2 ==> 4'b0000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA_CTL_B3 ==> 4'b0000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA_CTL_B4 ==> 4'b0000
+MIG: 14:51:32 :  Invalid Param: DDR3_PHY_0_BITLANES ==> 48'h3F7_3FE_FFF_BFF
+MIG: 14:51:32 :  Invalid Param: DDR3_PHY_1_BITLANES ==> 48'h000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_PHY_2_BITLANES ==> 48'h000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_CK_BYTE_MAP ==> 144'h00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00
+MIG: 14:51:32 :  Invalid Param: DDR3_ADDR_MAP ==> 192'h000_001_005_009_000_011_007_003_004_008_006_00B_01B_015_002_014
+MIG: 14:51:32 :  Invalid Param: DDR3_BANK_MAP ==> 36'h010_013_017
+MIG: 14:51:32 :  Invalid Param: DDR3_CAS_MAP ==> 12'h016
+MIG: 14:51:32 :  Invalid Param: DDR3_CKE_ODT_BYTE_MAP ==> 8'h00
+MIG: 14:51:32 :  Invalid Param: DDR3_CKE_MAP ==> 96'h000_000_000_000_000_000_000_012
+MIG: 14:51:32 :  Invalid Param: DDR3_ODT_MAP ==> 96'h000_000_000_000_000_000_000_019
+MIG: 14:51:32 :  Invalid Param: DDR3_CS_MAP ==> 120'h000_000_000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_PARITY_MAP ==> 12'h000
+MIG: 14:51:32 :  Invalid Param: DDR3_RAS_MAP ==> 12'h018
+MIG: 14:51:32 :  Invalid Param: DDR3_WE_MAP ==> 12'h01A
+MIG: 14:51:32 :  Invalid Param: DDR3_DQS_BYTE_MAP ==> 144'h00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_00_03_02
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA0_MAP ==> 96'h025_027_023_029_028_024_021_026
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA1_MAP ==> 96'h039_035_038_037_034_031_036_030
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA2_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA3_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA4_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA5_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA6_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA7_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA8_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA9_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA10_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA11_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA12_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA13_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA14_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA15_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA16_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA17_MAP ==> 96'h000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_MASK0_MAP ==> 108'h000_000_000_000_000_000_000_032_022
+MIG: 14:51:32 :  Invalid Param: DDR3_MASK1_MAP ==> 108'h000_000_000_000_000_000_000_000_000
+MIG: 14:51:32 :  Invalid Param: DDR3_SLOT_0_CONFIG ==> 8'b0000_0001
+MIG: 14:51:32 :  Invalid Param: DDR3_SLOT_1_CONFIG ==> 8'b0000_0000
+MIG: 14:51:32 :  Invalid Param: DDR3_IBUF_LPWR_MODE ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA_IO_IDLE_PWRDWN ==> "ON"
+MIG: 14:51:32 :  Invalid Param: DDR3_BANK_TYPE ==> "HR_IO"
+MIG: 14:51:32 :  Invalid Param: DDR3_DATA_IO_PRIM_TYPE ==> "HR_LP"
+MIG: 14:51:32 :  Invalid Param: DDR3_CKE_ODT_AUX ==> "FALSE"
+MIG: 14:51:32 :  Invalid Param: DDR3_USER_REFRESH ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_WRLVL ==> "ON"
+MIG: 14:51:32 :  Invalid Param: DDR3_ORDERING ==> "NORM"
+MIG: 14:51:32 :  Invalid Param: DDR3_CALIB_ROW_ADD ==> 16'h0000
+MIG: 14:51:32 :  Invalid Param: DDR3_CALIB_COL_ADD ==> 12'h000
+MIG: 14:51:32 :  Invalid Param: DDR3_CALIB_BA_ADD ==> 3'h0
+MIG: 14:51:32 :  Invalid Param: DDR3_TCQ ==> 100
+MIG: 14:51:32 :  Invalid Param: DDR3_IDELAY_ADJ ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_FINE_PER_BIT ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_CENTER_COMP_MODE ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_PI_VAL_ADJ ==> "OFF"
+MIG: 14:51:32 :  Invalid Param: DDR3_IODELAY_GRP0 ==> "HDMI_MIG_7SERIES_0_0_IODELAY_MIG0"
+MIG: 14:51:32 :  Invalid Param: DDR3_IODELAY_GRP1 ==> "HDMI_MIG_7SERIES_0_0_IODELAY_MIG1"
+MIG: 14:51:32 :  Invalid Param: DDR3_SYSCLK_TYPE ==> "SINGLE_ENDED"
+MIG: 14:51:32 :  Invalid Param: DDR3_REFCLK_TYPE ==> "NO_BUFFER"
+MIG: 14:51:32 :  Invalid Param: DDR3_SYS_RST_PORT ==> "FALSE"
+MIG: 14:51:32 :  Invalid Param: DDR3_FPGA_SPEED_GRADE ==> 1
+MIG: 14:51:32 :  Invalid Param: DDR3_CMD_PIPE_PLUS1 ==> "ON"
+MIG: 14:51:32 :  Invalid Param: DDR3_DRAM_TYPE ==> "DDR3"
+MIG: 14:51:32 :  Invalid Param: DDR3_CAL_WIDTH ==> "HALF"
+MIG: 14:51:32 :  Invalid Param: DDR3_STARVE_LIMIT ==> 2
+MIG: 14:51:32 :  Invalid Param: DDR3_REF_CLK_MMCM_IODELAY_CTRL ==> "FALSE"
+MIG: 14:51:32 :  Invalid Param: DDR3_REFCLK_FREQ ==> 200.0
+MIG: 14:51:32 :  Invalid Param: DDR3_DIFF_TERM_REFCLK ==> "TRUE"
+MIG: 14:51:32 :  Invalid Param: DDR3_tCK ==> 2500
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: DDR3_nCK_PER_CLK ==> 4
+MIG: 14:51:32 :  Invalid Param: DDR3_DIFF_TERM_SYSCLK ==> "TRUE"
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: UI_EXTRA_CLOCKS ==> TRUE
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: C_S_AXI_ID_WIDTH ==> 2
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: C_S_AXI_MEM_SIZE ==> 536870912
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: C_S_AXI_ADDR_WIDTH ==> 29
+MIG: 14:51:32 : 
+MIG: 14:51:32 :  Valid Param: C_S_AXI_DATA_WIDTH ==> 128
+MIG: 14:51:32 :  Invalid Param: DDR3_C_MC_nCK_PER_CLK ==> 4
+MIG: 14:51:32 :  Invalid Param: C_S_AXI_SUPPORTS_NARROW_BURST ==> 0
+MIG: 14:51:32 :  Invalid Param: DDR3_C_RD_WR_ARB_ALGORITHM ==> "RD_PRI_REG"
+MIG: 14:51:33 :  Invalid Param: C_S_AXI_REG_EN0 ==> 20'h00000
+MIG: 14:51:33 :  Invalid Param: C_S_AXI_REG_EN1 ==> 20'h00000
+MIG: 14:51:33 : 
+MIG: 14:51:33 :  Valid Param: C_S_AXI_CTRL_ADDR_WIDTH ==> 32
+MIG: 14:51:33 : 
+MIG: 14:51:33 :  Valid Param: C_S_AXI_CTRL_DATA_WIDTH ==> 32
+MIG: 14:51:33 :  Invalid Param: C_S_AXI_BASEADDR ==> 32'h0000_0000
+MIG: 14:51:33 :  Invalid Param: C_ECC_ONOFF_RESET_VALUE ==> 1
+MIG: 14:51:33 :  Invalid Param: C_ECC_CE_COUNTER_WIDTH ==> 8
+MIG: 14:51:33 : 
+MIG: 14:51:33 :  Valid Param: DDR3_DEBUG_PORT ==> OFF
+MIG: 14:51:33 : 
+MIG: 14:51:33 :  Invalid Param: DDR3_TEMP_MON_CONTROL ==> "INTERNAL"
+MIG: 14:51:33 :  Invalid Param: DDR3_FPGA_VOLT_TYPE ==> "N"
+MIG: 14:51:33 :  Invalid Param: DDR3_RST_ACT_LOW ==> 1
+MIG: 14:51:33 : 
+MIG: 14:51:33 : 
+MIG: 14:51:33 : 
+MIG: 14:51:33 : Same Interface
+MIG: 14:53:05 : Running synthesis.xit
+MIG: 14:53:05 : ################# RUNNING MIG BATCH ###################
+MIG: 14:53:05 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 14:53:05 : synp_flow:  -- synthesis_mode: Other
+MIG: 14:53:05 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 14:53:05 : vivado_mode: xpg_bd
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 1
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:05 : isPortInterface: 0
+MIG: 14:53:06 : isPortInterface: 0
+MIG: 14:53:06 :  locked false  
+MIG: 14:53:06 : HDL Language: Verilog
+MIG: 14:53:06 : compInfo: false
+MIG: 14:53:06 : Vivado Options xc7a200t sbg484 -1
+MIG: 14:53:06 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 14:53:06 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 14:53:06 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 14:53:06 : I am in catch area
+MIG: 14:53:06 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 14:53:15 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:53:15 : Component_Name: hdmi_mig_7series_0_0
+MIG: 14:53:15 : Moving hdmi_mig_7series_0_0 ...
+MIG: 14:53:15 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 14:53:15 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 14:53:15 : Running vhdl_synth_rpr.xit
+MIG: 14:53:15 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 14:53:15 : ERR:     <Version>2.4</Version> <==>     <Version>4.0</Version> 
+MIG: 14:53:15 : ################# RUNNING MIG BATCH ###################
+MIG: 14:53:15 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 14:53:15 : synp_flow:  -- synthesis_mode: Other
+MIG: 14:53:15 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 14:53:15 : vivado_mode: xpg_bd
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:15 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 1
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 : isPortInterface: 0
+MIG: 14:53:16 :  locked false  
+MIG: 14:53:16 : HDL Language: Verilog
+MIG: 14:53:16 : compInfo: false
+MIG: 14:53:16 : Vivado Options xc7a200t sbg484 -1
+MIG: 14:53:16 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 14:53:16 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 14:53:16 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 14:53:16 : I am in catch area
+MIG: 14:53:16 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 14:53:25 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:53:25 : Component_Name: hdmi_mig_7series_0_0
+MIG: 14:53:25 : Moving hdmi_mig_7series_0_0 ...
+MIG: 14:53:25 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 14:53:25 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 14:53:25 : Running simulation.xit
+MIG: 14:53:25 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 14:53:25 : ERR:     <Version>2.4</Version> <==>     <Version>4.0</Version> 
+MIG: 14:53:25 : ################# RUNNING MIG BATCH ###################
+MIG: 14:53:25 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 14:53:25 : synp_flow:  -- synthesis_mode: Other
+MIG: 14:53:25 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 14:53:25 : vivado_mode: xpg_bd
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:25 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 1
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 : isPortInterface: 0
+MIG: 14:53:26 :  locked false  
+MIG: 14:53:26 : HDL Language: Verilog
+MIG: 14:53:26 : compInfo: false
+MIG: 14:53:26 : Vivado Options xc7a200t sbg484 -1
+MIG: 14:53:26 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 14:53:26 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 14:53:26 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 14:53:26 : I am in catch area
+MIG: 14:53:26 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 14:53:35 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:53:35 : Component_Name: hdmi_mig_7series_0_0
+MIG: 14:53:35 : Moving hdmi_mig_7series_0_0 ...
+MIG: 14:53:35 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 14:53:35 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 14:53:35 : Running vlog_sim_rpr.xit .. PRASAD DBG1
+MIG: 14:53:36 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 14:53:36 : ERR:     <Version>2.4</Version> <==>     <Version>4.0</Version> 
+MIG: 14:53:36 : ################# RUNNING MIG BATCH ###################
+MIG: 14:53:36 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 14:53:36 : synp_flow:  -- synthesis_mode: Other
+MIG: 14:53:36 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 14:53:36 : vivado_mode: xpg_bd
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 1
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 : isPortInterface: 0
+MIG: 14:53:36 :  locked false  
+MIG: 14:53:36 : HDL Language: Verilog
+MIG: 14:53:36 : compInfo: false
+MIG: 14:53:36 : Vivado Options xc7a200t sbg484 -1
+MIG: 14:53:36 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 14:53:36 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 14:53:36 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 14:53:36 : I am in catch area
+MIG: 14:53:36 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 14:53:45 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:53:45 : Component_Name: hdmi_mig_7series_0_0
+MIG: 14:53:45 : Moving hdmi_mig_7series_0_0 ...
+MIG: 14:53:45 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 14:53:45 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 14:53:45 : Running implementation.xit
+MIG: 14:53:45 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 14:53:45 : ERR:     <Version>2.4</Version> <==>     <Version>4.0</Version> 
+MIG: 14:53:45 : ################# RUNNING MIG BATCH ###################
+MIG: 14:53:45 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 14:53:45 : synp_flow:  -- synthesis_mode: Other
+MIG: 14:53:46 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 14:53:46 : vivado_mode: xpg_bd
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 1
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 : isPortInterface: 0
+MIG: 14:53:46 :  locked false  
+MIG: 14:53:46 : HDL Language: Verilog
+MIG: 14:53:46 : compInfo: false
+MIG: 14:53:46 : Vivado Options xc7a200t sbg484 -1
+MIG: 14:53:46 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 14:53:46 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 14:53:46 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 14:53:46 : I am in catch area
+MIG: 14:53:46 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 14:53:55 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 14:53:55 : Component_Name: hdmi_mig_7series_0_0
+MIG: 14:53:55 : Moving hdmi_mig_7series_0_0 ...
+MIG: 14:53:55 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 14:53:55 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 10:20:25 : Running synthesis.xit
+MIG: 10:20:26 : ################# RUNNING MIG BATCH ###################
+MIG: 10:20:26 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 10:20:26 : synp_flow:  -- synthesis_mode: Other
+MIG: 10:20:26 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 10:20:26 : vivado_mode: xpg_bd
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 1
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 : isPortInterface: 0
+MIG: 10:20:26 :  locked false  
+MIG: 10:20:26 : HDL Language: Verilog
+MIG: 10:20:26 : compInfo: false
+MIG: 10:20:26 : Vivado Options xc7a200t sbg484 -1
+MIG: 10:20:26 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 10:20:26 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 10:20:26 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 10:20:26 : I am in catch area
+MIG: 10:20:26 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 10:20:38 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 10:20:38 : Component_Name: hdmi_mig_7series_0_0
+MIG: 10:20:38 : Moving hdmi_mig_7series_0_0 ...
+MIG: 10:20:38 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 10:20:38 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 10:20:38 : Running vhdl_synth_rpr.xit
+MIG: 10:20:38 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 10:20:38 : ERR:     <Version>2.4</Version> <==>     <Version>4.0</Version> 
+MIG: 10:20:38 : ################# RUNNING MIG BATCH ###################
+MIG: 10:20:38 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 10:20:38 : synp_flow:  -- synthesis_mode: Other
+MIG: 10:20:38 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 10:20:38 : vivado_mode: xpg_bd
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:38 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 1
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 : isPortInterface: 0
+MIG: 10:20:39 :  locked false  
+MIG: 10:20:39 : HDL Language: Verilog
+MIG: 10:20:39 : compInfo: false
+MIG: 10:20:39 : Vivado Options xc7a200t sbg484 -1
+MIG: 10:20:39 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 10:20:39 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 10:20:39 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 10:20:39 : I am in catch area
+MIG: 10:20:39 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 10:20:48 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 10:20:48 : Component_Name: hdmi_mig_7series_0_0
+MIG: 10:20:48 : Moving hdmi_mig_7series_0_0 ...
+MIG: 10:20:48 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 10:20:48 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 10:20:48 : Running simulation.xit
+MIG: 10:20:48 : ################# RUNNING MIG BATCH ###################
+MIG: 10:20:48 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 10:20:48 : synp_flow:  -- synthesis_mode: Other
+MIG: 10:20:48 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 10:20:49 : vivado_mode: xpg_bd
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 1
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 : isPortInterface: 0
+MIG: 10:20:49 :  locked false  
+MIG: 10:20:49 : HDL Language: Verilog
+MIG: 10:20:49 : compInfo: false
+MIG: 10:20:49 : Vivado Options xc7a200t sbg484 -1
+MIG: 10:20:49 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 10:20:49 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 10:20:49 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 10:20:49 : I am in catch area
+MIG: 10:20:49 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 10:20:58 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 10:20:58 : Component_Name: hdmi_mig_7series_0_0
+MIG: 10:20:58 : Moving hdmi_mig_7series_0_0 ...
+MIG: 10:20:58 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 10:20:58 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 10:20:58 : Running vlog_sim_rpr.xit .. PRASAD DBG1
+MIG: 10:20:58 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 10:20:58 : ERR:     <Version>2.4</Version> <==>     <Version>4.0</Version> 
+MIG: 10:20:58 : ################# RUNNING MIG BATCH ###################
+MIG: 10:20:58 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 10:20:58 : synp_flow:  -- synthesis_mode: Other
+MIG: 10:20:58 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 10:20:58 : vivado_mode: xpg_bd
+MIG: 10:20:58 : isPortInterface: 0
+MIG: 10:20:58 : isPortInterface: 0
+MIG: 10:20:58 : isPortInterface: 0
+MIG: 10:20:58 : isPortInterface: 0
+MIG: 10:20:58 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 1
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 : isPortInterface: 0
+MIG: 10:20:59 :  locked false  
+MIG: 10:20:59 : HDL Language: Verilog
+MIG: 10:20:59 : compInfo: false
+MIG: 10:20:59 : Vivado Options xc7a200t sbg484 -1
+MIG: 10:20:59 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 10:20:59 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 10:20:59 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 10:20:59 : I am in catch area
+MIG: 10:20:59 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 10:21:08 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 10:21:08 : Component_Name: hdmi_mig_7series_0_0
+MIG: 10:21:08 : Moving hdmi_mig_7series_0_0 ...
+MIG: 10:21:08 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 10:21:08 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...
+MIG: 10:21:09 : Running implementation.xit
+MIG: 10:21:09 : IGN:     <ModuleName>design_1_mig_7series_0_0</ModuleName> <==>     <ModuleName>hdmi_mig_7series_0_0</ModuleName> 
+MIG: 10:21:09 : ERR:     <Version>2.4</Version> <==>     <Version>4.0</Version> 
+MIG: 10:21:09 : ################# RUNNING MIG BATCH ###################
+MIG: 10:21:09 : Writing IN file for 'hdmi_mig_7series_0_0'...compDirPath: c:/Xilinx/Vivado/2016.4/data/ip/xilinx/mig_7series_v4_0... instDirPath: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0
+MIG: 10:21:09 : synp_flow:  -- synthesis_mode: Other
+MIG: 10:21:09 : outputDirectory: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/_tmp/
+MIG: 10:21:09 : vivado_mode: xpg_bd
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 1
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 : isPortInterface: 0
+MIG: 10:21:09 :  locked false  
+MIG: 10:21:09 : HDL Language: Verilog
+MIG: 10:21:09 : compInfo: false
+MIG: 10:21:09 : Vivado Options xc7a200t sbg484 -1
+MIG: 10:21:09 : 1: xc7a200t 2: sbg484 3: -1
+MIG: 10:21:09 : relative mig path: coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe
+MIG: 10:21:09 : xilinx_path: C:/Xilinx/Vivado/2016.4/ids_lite/ISE
+MIG: 10:21:09 : I am in catch area
+MIG: 10:21:09 : Running C:/Xilinx/Vivado/2016.4/ids_lite/ISE/coregen/ip/xilinx/other/com/xilinx/ip/mig_7series_v4_0/bin/nt64/mig.exe -cg_exc_inp c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.in -cg_exc_out c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/xil_txt.out ... 
+MIG: 10:21:19 : XML_INPUT_FILE: c:/Users/arbrown/Documents/work/nv/Nexys-Video-HDMI-copy/src/bd/hdmi/ip/hdmi_mig_7series_0_0/mig_b.prj
+MIG: 10:21:19 : Component_Name: hdmi_mig_7series_0_0
+MIG: 10:21:19 : Moving hdmi_mig_7series_0_0 ...
+MIG: 10:21:19 : Moving hdmi_mig_7series_0_0.veo ...
+MIG: 10:21:19 : Moving hdmi_mig_7series_0_0_xmdf.tcl ...

@@ -1,5 +1,5 @@
-# Nexys Video Template <!-- Replace this line with the project name -->
+# Nexys Video HDMI
 Created for Vivado 2016.4
 
-[Link to the project wiki](https://reference.digilentinc.com/doku.php)
+[Link to the project wiki](https://reference.digilentinc.com/learn/programmable-logic/tutorials/nexys-video-hdmi-demo/start)
 
