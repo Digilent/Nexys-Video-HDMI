@@ -49,7 +49,7 @@ Demo Setup
 | Project Name                            | Nexys-Video-HDMI                 |
 | Use default location                    | Checked box                      |
 | OS Platform                             | standalone                       |
-| Target Hardware: Hardware Platform      | design_1_wrapper_hw_platform_0   |
+| Target Hardware: Hardware Platform      | hdmi_wrapper_hw_platform_0   |
 | Target Hardware: Processor              | microblaze_0                     |
 | Target Software: Language               | C                                |
 | Target Software: Board Support Package  | Create New (Nexys-Video-HDMI_bsp)|

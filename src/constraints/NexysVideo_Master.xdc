@@ -353,12 +353,4 @@ set_property -dict { PACKAGE_PIN AB3   IOSTANDARD TMDS_33     } [get_ports { TMD
 #set_property -dict { PACKAGE_PIN R16   IOSTANDARD LVCMOS33 } [get_ports { prsnt_m2c }]; #IO_L22N_T3_A04_D20_14 Sch=prsnt_m2c
 
 
-#???????????
-#set_property PACKAGE_PIN D16 [get_ports {netic20_d16}]; #IO_L5N_T0_16
-#set_property PACKAGE_PIN D20 [get_ports {netic20_d20}]; #IO_L19P_T3_16
-#set_property PACKAGE_PIN E16 [get_ports {netic20_e16}]; #IO_L5P_T0_16
-#set_property PACKAGE_PIN F4 [get_ports {netic20_f4}]; #IO_0_35
-#set_property PACKAGE_PIN T3 [get_ports {netic20_t3}]; #IO_0_34
-#set_property PACKAGE_PIN Y17 [get_ports {netic20_y17}]; #IO_0_13
-
 #set_property -dict { PACKAGE_PIN R2    IOSTANDARD LVCMOS33 } [get_ports { pic_ss_b }]; #IO_L3N_T0_DQS_34 Sch=pic_ss_b
