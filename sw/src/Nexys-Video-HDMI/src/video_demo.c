@@ -43,7 +43,7 @@
 /*
  * XPAR redefines
  */
-#define DYNCLK_BASEADDR XPAR_AXI_DYNCLK_0_BASEADDR
+#define DYNCLK_BASEADDR XPAR_AXI_DYNCLK_0_S_AXI_LITE_BASEADDR
 #define VGA_VDMA_ID XPAR_AXIVDMA_0_DEVICE_ID
 #define DISP_VTC_ID XPAR_VTC_0_DEVICE_ID
 #define VID_VTC_ID XPAR_VTC_1_DEVICE_ID
@@ -69,7 +69,8 @@ char fRefresh; //flag used to trigger a refresh of the Menu on video detect
 /*
  * Framebuffers for video data
  */
-u8 frameBuf[DISPLAY_NUM_FRAMES][DEMO_MAX_FRAME];
+
+u8 frameBuf[DISPLAY_NUM_FRAMES][DEMO_MAX_FRAME] __attribute__((aligned(0x20)));
 u8 *pFrames[DISPLAY_NUM_FRAMES]; //array of pointers to the frame buffers
 
 /*
