@@ -4,10 +4,10 @@ Nexys Video HDMI Demo
 Description
 -----------
 
-This project demonstrates how to use the USB-UART Bridge, HDMI Sink and HDMI Source with the ZYNQ processor. Vivado is used to build the demo's hardware platform, and Xilinx SDK is used to program the bitstream onto the board and to build and deploy a C application. Video data streams in through the HDMI in port and out through the HDMI out port. A UART interface is available to configure what is output through HDMI.
+This project demonstrates how to use the USB-UART Bridge, HDMI Sink and HDMI Source with a Microblaze processor. Vivado is used to build the demo's hardware platform, and Vitis is used to program the bitstream onto the board and to build and deploy a C application. Video data streams in through the HDMI in port and out through the HDMI out port. A UART interface is available to configure what is output through HDMI.
 There are 3 display frame buffers that the user can choose to display or write to. The configuring options are shown in the table below.
 
-The demo uses the usb-uart bridge to configure the HDMI Display , the Nexys Video must be connected to a computer over MicroUSB, which must be running a serial terminal such as Tera Term or PuTTY.
+The demo uses the usb-uart bridge to configure the HDMI Display, the Nexys Video must be connected to a computer over MicroUSB, which must be running a serial terminal such as Tera Term or PuTTY.
 
 | Option    | Function                                                                                                                 |
 | --------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -19,7 +19,7 @@ The demo uses the usb-uart bridge to configure the HDMI Display , the Nexys Vide
 | 7         | Invert and store the current video frame into the next video frame buffer and display it.                                |
 | 8         | Scale the current video frame to the display resolution, store it into the next video frame buffer, and then display it. |
 
-NOTE: The drawing functions (Functions 3, 4, 7, and 8) were designed for the Zynq processor. In its current state, these functions run VERY slowly on the Microblaze processor, so it is advised not to use these functions for the time being. It is possible that the floating point calculations are slowing these functions down. 
+NOTE: The drawing functions (Functions 3, 4, 7, and 8) were designed for Zynq processors. In their current state, these functions run VERY slowly on the Microblaze processor, so it is advised not to use these functions for the time being. It is possible that the floating point calculations are slowing these functions down. 
 
 
 
